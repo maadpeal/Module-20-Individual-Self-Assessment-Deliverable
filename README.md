@@ -6,8 +6,11 @@ I collaborated with the etl process, the first file was quite large and very eas
 I also collaborated with the creation of the first predictive model that Cynthia made, based on what we saw in the classes we were able to arrive at a first approximation of the model.
 
     • Segment II (aws and model):  
-      In this segment I collaborated in the ingestion of the data in the postgres database in aws, we were very careful when creating the structure, the foreign keys and the primary keys to have consistency of the information, we also had to decide how to load the information to try to avoid as much redundancy as possible.
-       I also collaborated as in the last segment in the creation of the model together with Felipe, at this point due to the treatment of the data that we gave him, we managed to obtain a better performance.
+      In this segment I collaborated in the ingestion of the data in the postgres database in aws, we were very careful 
+      when creating the structure, the foreign keys and the primary keys to have consistency of the information, we also 
+      had to decide how to load the information to try to avoid as much redundancy as possible.
+       I also collaborated as in the last segment in the creation of the model together with Felipe, at this point due 
+       to the treatment of the data that we gave him, we managed to obtain a better performance.
 
     • Segment III (db and model): 
 At this point I collaborated to obtain the data directly from the database in order to train the model, then together with Cynthia we made a fix to improve the data and we generated a new column to finally obtain 78% accuracy, which is the final result that we obtained in the model.
